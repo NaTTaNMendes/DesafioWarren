@@ -1,5 +1,18 @@
 # DesafioWarren
 
+
+## Como rodar os códigos
+
+Para rodar o programa o usuário deve ter algum compilador python instalado na máquina, sendo necessário a utilização do terminal para digitar e receber os dados.
+
+Link para o download do python 3: https://www.python.org/downloads/
+Link para o download do VSCode: https://code.visualstudio.com/
+
+## Tecnologias utilizadas
+
+ * Python 3
+ * Visual Studio Code
+
 ## - DESAFIO 1 -
 
 Enunciado:
